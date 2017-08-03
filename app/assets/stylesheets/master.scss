@@ -1,5 +1,6 @@
 @import "bootstrap";
 
+
 .clear {
   clear: both;
 
@@ -44,6 +45,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #04CDDB;
+  font-family: 'cantarellbold', sans-serif;
+  font-weight: bold;
 }
 
 header {
@@ -54,3 +57,17 @@ header {
 hr {
   clear:both;
 }
+
+h1 {
+  font-family: 'cantarellbold', cursive;
+  font-weight: bold;
+  letter-spacing: 48px;
+}
+
+h2 {
+  font-family: 'cantarellbold', cursive;
+  font-weight: 600;
+  letter-spacing: -1.5px;
+
+}
+
